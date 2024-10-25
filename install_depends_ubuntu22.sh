@@ -1,1 +1,1 @@
-sudo apt install qtbase5-dev qttools5-dev qttools5-dev-tools
+sudo apt install -y qtbase5-dev qttools5-dev qttools5-dev-tools
